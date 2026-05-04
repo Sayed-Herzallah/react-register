@@ -1,12 +1,68 @@
-# React + Vite
+React Register Form (with React Hook Form + Zod)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and fully validated registration form built using React, React Hook Form, and Zod.
+This project focuses on clean architecture, strong validation, and a smooth user experience.
 
-Currently, two official plugins are available:
+Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates how to build a real-world registration system using modern React tools.
+It includes schema-based validation, error handling, and responsive UI design.
 
-## Expanding the ESLint configuration
+Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js
+React Hook Form
+Zod (Schema Validation)
+CSS / Styled UI
+
+Features
+
+Clean and modern UI
+Fast form handling with React Hook Form
+Strong validation using Zod schema
+Real-time error messages
+Fully responsive design
+Reusable and scalable structure
+
+Preview
+
+(Add your screenshots here)
+
+What I Learned
+
+Advanced form handling in React
+Schema validation using Zod
+Better UX design for forms
+Clean component structuring
+Error handling best practices
+
+Project Structure
+
+src/
+
+components/
+RegisterForm.jsx
+validation/
+schema.js
+App.js
+index.js
+
+How to Run Project
+
+npm install
+npm start
+
+Future Improvements
+
+Add backend authentication
+Connect to database
+Add login system
+Add password strength meter
+
+Author
+
+Sayed Herzallah
+
+Contact
+
+Feel free to connect for collaboration or opportunities 🚀
