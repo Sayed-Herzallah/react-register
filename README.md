@@ -21,13 +21,20 @@ React.js
 React Hook Form
 Zod (Schema Validation)
 CSS
+
 ✨ FEATURES
 Modern UI Design
+
 Real-time Validation
+
 Clean Error Handling
+
 Fully Responsive Layout
+
 Reusable Components
+
 Fast and Lightweight Performance
+
 📁 PROJECT STRUCTURE
 
 src/
@@ -43,12 +50,14 @@ Install dependencies:
 npm install
 Start project:
 npm start
+
 🧠 WHAT I LEARNED
 Advanced React Form Handling
 Schema Validation with Zod
 Better UX Design for Forms
 Clean Architecture in React
 State & Error Management
+
 🔮 FUTURE IMPROVEMENTS
 Backend Integration
 Authentication System
