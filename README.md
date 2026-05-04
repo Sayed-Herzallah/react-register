@@ -1,4 +1,5 @@
 REACT REGISTER FORM (WITH REACT HOOK FORM + ZOD)
+
 🚀 PROJECT OVERVIEW
 
 A modern registration system built with React, React Hook Form, and Zod validation.
@@ -53,6 +54,7 @@ Backend Integration
 Authentication System
 Database Connection
 Password Strength Checker
+
 👨‍💻 AUTHOR
 
 Sayed Herzallah
